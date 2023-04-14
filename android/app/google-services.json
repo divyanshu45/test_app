@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "73775773168",
+    "project_id": "perpetuum-functions",
+    "storage_bucket": "perpetuum-functions.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:73775773168:android:58c320317db70fa88cd935",
+        "android_client_info": {
+          "package_name": "com.example.test_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "73775773168-9qbbir7gfqrr72hgqe7gil56he8p1rco.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.test_app",
+            "certificate_hash": "8603c001b478ec5e759710904205fb54cc3de637"
+          }
+        },
+        {
+          "client_id": "73775773168-mtsf3i7al4bq7o0t46ha8fq3k4jpd6rn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDI5Th2ysWtcc-kKIfe8DlJ3rW12EoVN7I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "73775773168-mtsf3i7al4bq7o0t46ha8fq3k4jpd6rn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
